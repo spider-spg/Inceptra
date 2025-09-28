@@ -1,0 +1,19 @@
+{
+  "name": "incentra-backend",
+  "version": "1.0.0",
+  "description": "FastAPI backend for Incentra business analysis",
+  "main": "main.py",
+  "scripts": {
+    "start": "uvicorn main:app --host 0.0.0.0 --port 8000 --reload",
+    "install": "pip install -r requirements.txt"
+  },
+  "keywords": [
+    "fastapi",
+    "business-analysis",
+    "ai",
+    "vision-api",
+    "gemini"
+  ],
+  "author": "Incentra Team",
+  "license": "MIT"
+}
