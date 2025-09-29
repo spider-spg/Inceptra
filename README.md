@@ -36,16 +36,6 @@ https://github.com/user-attachments/assets/55476907-2d3f-4ba9-a65b-6f07bfa91365
 - **Funnel Analysis**: Track progress from raw ideas to funding-ready proposals
 - **Export Capabilities**: Generate reports for decision-making
 
-## 🛠 Tech Stack
-
-- **Frontend**: React 18 + TypeScript
-- **Build Tool**: Vite
-- **Styling**: Tailwind CSS
-- **UI Components**: Shadcn/ui + Radix UI
-- **Routing**: React Router
-- **Icons**: Lucide React
-- **Animation**: Framer Motion
-- **Charts**: Recharts
 
 ## 📱 Responsive Design
 
