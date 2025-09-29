@@ -1,8 +1,18 @@
+
 # Unfair Advantage - Tata STRIVE Entrepreneurship Platform
 
 A comprehensive web application built for Tata STRIVE's entrepreneurship development program, helping transform raw business ideas into structured, compelling business cases.
 
-## 🚀 Features
+## 🚀 Video Demonstration:
+
+
+
+
+https://github.com/user-attachments/assets/55476907-2d3f-4ba9-a65b-6f07bfa91365
+
+
+
+
 
 ### For Entrepreneurs
 
