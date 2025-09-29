@@ -59,14 +59,12 @@ npm install
 2. Start the server:
 
 ```bash
-cd Incentra
 cd backend
 python main.py 
 ```
 3. run these in another terminal :
 
 ```bash
-cd Incentra
 npm run dev
 ```
 
